@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aitorarteta
 - 👀 I’m interested in Architecture, Business and Travel
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on building startups
+- 🚀 I’m looking to collaborate on building startups
 - 📫 Reach me on IG: @artetaa
+- 🖥 42 intra: https://profile.intra.42.fr/users/aarteta
