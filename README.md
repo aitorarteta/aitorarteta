@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aitorarteta
+- 👋 My name is Aitor Arteta, and at 42 Urduliz I am known as aarteta[https://profile.intra.42.fr/users/aarteta].
 - 👀 I’m interested in Architecture, Business and Travel
-- 🌱 I’m currently learning Blockchain
-- 🚀 I’m looking to collaborate on building startups
-- 📫 Reach me on IG: @artetaa
-- 🖥 42 intra: https://profile.intra.42.fr/users/aarteta
+- 🌱 I’m currently studying Common Core at 42 Urduliz after successfully completing the Piscine.
+- 🚀 Additionally, I have an interest collaborate in Cybersecurity, Python, Data Analysis and Blockchain.
+- 📫 Reach me on Linkedin[https://es.linkedin.com/in/arteta]
